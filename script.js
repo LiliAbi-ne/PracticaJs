@@ -1,3 +1,4 @@
+    // Invertir cadena
 document.addEventListener('DOMContentLoaded', function () {
     // Invertir cadena
     const input = document.getElementById('CadenaInput');
